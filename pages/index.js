@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Printable Calendar 2025</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
