@@ -18,10 +18,9 @@ export default function Home() {
     One of the best tools for planning and finishing tasks is the <a href="https://weekmonthcalendar.com/february-blank-calendar/">February 2025 Blank Calendar</a>. If you want to succeed in your daily tasks, using a calendar is a great idea because it will help you remember to do things on time.
    
     The PDF of the <a href="https://weekmonthcalendar.com/march-april-2025-calendar/">March April 2025 Calendar</a> PDF is among the best resources for organising and completing tasks. Using a calendar is a wonderful idea if you want to succeed in your daily duties because it will help you remember to complete things on time.
-    </p>
-      <p className="description">
-      <img src="https://weekmonthcalendar.com/wp-content/uploads/March-April-2025-Calendar-PDF.jpg">    
+    <img src="https://weekmonthcalendar.com/wp-content/uploads/March-April-2025-Calendar-PDF.jpg"> 
       </p>
+      
       </main>
 
       <Footer />
