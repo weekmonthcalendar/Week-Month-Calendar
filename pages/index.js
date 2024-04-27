@@ -22,7 +22,7 @@ export default function Home() {
       </p>
       <p className="description">
       hellozzz
-      </P>
+      </p>
       </main>
 
       <Footer />
