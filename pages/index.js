@@ -28,14 +28,7 @@ export default function Home() {
 </div> 
       </main>
 
-    <div>
-      <Image
-        src="https://weekmonthcalendar.com/wp-content/uploads/January-February-2025-Calendar-PDF.jpg"
-        width={500}
-        height={500}
-        alt="Picture of the author"
-      />
-    </div>
+    
   
 
       <Footer />
