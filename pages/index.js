@@ -27,10 +27,7 @@ export default function Home() {
   <div class="column">hello 3</div>
 </div> 
       </main>
-import Image from 'next/image'
- 
-export default function Page() {
-  return (
+
     <div>
       <Image
         src="https://weekmonthcalendar.com/wp-content/uploads/January-February-2025-Calendar-PDF.jpg"
@@ -39,8 +36,8 @@ export default function Page() {
         alt="Picture of the author"
       />
     </div>
-  )
-}
+  
+
       <Footer />
     </div>
   )
