@@ -21,7 +21,7 @@ export default function Home() {
    
       </p>
 <div class="row">
-  <div class="column">hello</div>
+  <div class="column"><a href="https://weekmonthcalendar.com/january-february-2025-calendar/"><img src="https://weekmonthcalendar.com/wp-content/uploads/January-February-2025-Calendar-PDF.jpg" style="width:300px;" /></a></div>
   <div class="column">hello 2</div>
   <div class="column">hello 3</div>
 </div> 
