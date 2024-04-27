@@ -21,7 +21,11 @@ export default function Home() {
    
       </p>
 <div class="row">
-  <div class="column"><a href="https://weekmonthcalendar.com/january-february-2025-calendar/"><img src="https://weekmonthcalendar.com/wp-content/uploads/January-February-2025-Calendar-PDF.jpg" /></a></div>
+  <div class="column"><a href="https://weekmonthcalendar.com/january-february-2025-calendar/"><Image src="https://weekmonthcalendar.com/wp-content/uploads/January-February-2025-Calendar-PDF.jpg"
+        width={500}
+        height={500}
+        alt="January February 2025 Calendar"
+      /></a></div>
   <div class="column">hello 2</div>
   <div class="column">hello 3</div>
 </div> 
