@@ -24,12 +24,7 @@ export default function Home() {
 <div class="row">
   <div class="column"><a href="https://weekmonthcalendar.com/january-february-2025-calendar/">
         January February 2025 Calendar</a></div>
-  <div class="column"><Image
-        src="https://weekmonthcalendar.com/wp-content/uploads/January-February-2025-Calendar-PDF.jpg"
-        width={500}
-        height={500}
-        alt="Picture of the author"
-      /></div>
+  <div class="column"><Image src="https://weekmonthcalendar.com/wp-content/uploads/January-February-2025-Calendar-PDF.jpg" width={500} height={500} alt="Picture of the author" /></div>
   <div class="column">hello 3</div>
 </div> 
 
