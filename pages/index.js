@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Image from 'next/image'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
@@ -26,6 +27,17 @@ export default function Home() {
   <div class="column">hello 2</div>
   <div class="column">hello 3</div>
 </div> 
+
+  
+    <div>
+      <Image
+        src="https://weekmonthcalendar.com/wp-content/uploads/January-February-2025-Calendar-PDF.jpg"
+        width={500}
+        height={500}
+        alt="Picture of the author"
+      />
+    </div>
+  
       </main>
 
     
