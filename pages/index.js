@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Printable Calendar" />
-        <p className="description">
+        <p className="description" style="width:90%">
           Plan your endeavours far enough in advance to prevent wasting time and valuable resources. Always save a <a href="https://weekmonthcalendar.com/">Yearly Printable Calendar</a> January to your computer to note key occasions like holidays, events, birthdays, etc. so that you can finish your work ahead of schedule without interfering with your regular daily tasks.
         
     One of the best tools for planning and finishing tasks is the <a href="https://weekmonthcalendar.com/february-blank-calendar/">February 2025 Blank Calendar</a>. If you want to succeed in your daily tasks, using a calendar is a great idea because it will help you remember to do things on time.
