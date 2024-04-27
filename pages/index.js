@@ -22,8 +22,8 @@ export default function Home() {
    
       </p>
 <div class="row">
-  <div class="column"><a href="https://weekmonthcalendar.com/january-february-2025-calendar/"><Image src="/January-2025-Blank-Calendar-Printable.jpg" width={300} height={300} alt="January 2025 Blank Calendar" /></a></div>
-  <div class="column"><a href="https://weekmonthcalendar.com/january-february-2025-calendar/"><Image src="/January-February-2025-Calendar-PDF.jpg" width={300} height={300} alt="January February 2025 Calendar" /></a></div>
+  <div class="column"><a href="https://weekmonthcalendar.com/january-blank-calendar/"><Image src="/January-2025-Blank-Calendar-Printable.jpg" width={300} height={300} alt="January 2025 Blank Calendar" /></a></div>
+  <div class="column"><a href="https://weekmonthcalendar.com/march-2025-calendar-printable-pdf/"><Image src="/Daisy-Color-March-2025-Calendar-Printable-PDF.jpg" width={300} height={300} alt="March 2025 Calendar" /></a></div>
   <div class="column"><a href="https://weekmonthcalendar.com/january-february-2025-calendar/"><Image src="/January-February-2025-Calendar-PDF.jpg" width={300} height={300} alt="January February 2025 Calendar" /></a></div>
 </div> 
 
